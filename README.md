@@ -13,7 +13,7 @@
 * The intention of this project is to provide other blockchain developers a prototype Crowdsales SmartContract and demonstrate the use of open-source Solidity libraries such as OpenZeppelin to help understand how the process works from beginning to end. I'll demonstrate how build a simple, __capped__, __mintable__, and __refundable__ Crowdsale contract token using the OpenZeppelin library and Solidity.
 
 ## Resources
-This project is written in Solidity using the [Remix IDE]() and deployed on a local testnet on my own machine.
+This project is coded with [Solidity](https://soliditylang.org/) using the [Remix IDE](https://remix.ethereum.org/) and deployed on a local Web3 testnet on my own machine. You can use all of these resources as well on both Windows and Mac.
 
 
 ## Contact:
