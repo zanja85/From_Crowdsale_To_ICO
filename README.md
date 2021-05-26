@@ -1,7 +1,7 @@
 <h3 align="center">From Crowdsale To ICO</h3>
 <p align="center">
   <a href="https://github.com/bgregory0913/From_Crowdsale_To_ICO/">
-    <img src=readme_img.jpg" alt="FinancialPlanning" align="center">
+    <img src="readme_img.jpg" alt="FinancialPlanning" align="center">
   </a>
 </p>
                                                                    
