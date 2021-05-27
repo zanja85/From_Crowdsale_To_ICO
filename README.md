@@ -7,6 +7,7 @@
                                                                    
 [Photo by RODNAE Productions from Pexels](https://www.pexels.com/photo/green-sticky-note-beside-white-and-green-pen-7414214/)
 
+A Crowdsale is a contract that acts as an intermediary for investors to pre-purchase a startup company's service or product with tokens in exchange for redemption when the company becomes established and financially viable. 
 
 # Project Overview:
 
@@ -17,9 +18,24 @@
 
 ## Getting Started:
 
-### Part 1 - 
+### Part 1 - Preparing and Deploying the Contract:
 
-### Part 2 - 
+* Coding and compiling the contract in Remix:
+
+![compiled_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/compiled_crowd_sale.PNG)
+
+* Deploying the contract with Remix:
+
+![deploying_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/deploying_contract.PNG)
+
+* Contract Deployed:
+
+![deployed_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/contract_deployed.PNG)
+
+
+### Part 2 - Executing Transactions:
+
+
 
 
 ## Resources
