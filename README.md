@@ -22,15 +22,15 @@ A Crowdsale is a contract that acts as an intermediary for investors to pre-purc
 
 * Coding and compiling the contract in Remix:
 
-![compiled_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/compiled_crowd_sale.PNG)
+![compiled_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/blob/main/compiled_crowd_sale.PNG)
 
 * Deploying the contract with Remix:
 
-![deploying_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/deploying_contract.PNG)
+![deploying_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/blob/main/deploying_contract.PNG)
 
 * Contract Deployed:
 
-![deployed_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/contract_deployed.PNG)
+![deployed_contract](https://github.com/bgregory0913/From_Crowdsale_To_ICO/blob/main/contract_deployed.PNG)
 
 
 ### Part 2 - Executing Transactions:
